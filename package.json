@@ -1,9 +1,9 @@
 {
   "name"         : "node-web-scrape",
-  "version"      : "0.0.2",
+  "version"      : "1.0.0",
   "description"  : "Scrape the web.",
   "main"         : "server.js",
-  "author"       : "om sai ram",
+  "author"       : "Mohit Bhatia",
   "dependencies" : {
     "express"    : "latest",
     "request"    : "latest",
